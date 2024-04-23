@@ -6,6 +6,7 @@ I am currently working in projects in healthcare analytics to quantify uncertain
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/aidan-licoppe-b06997186)
+
 **Email:** aidan.licoppe@mail.mcgill.ca
 
 # 📊 GitHub Stats:
