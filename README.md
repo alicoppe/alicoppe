@@ -8,9 +8,3 @@ I am currently working in projects in healthcare analytics to quantify uncertain
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://ca.linkedin.com/in/aidan-licoppe-b06997186)
 
 **Email:** aidan.licoppe@mail.mcgill.ca
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=alicoppe&theme=dark&hide_border=true)<br/>
-
----
-[![](https://visitcount.itsvg.in/api?id=alicoppe&icon=0&color=0)](https://visitcount.itsvg.in)
